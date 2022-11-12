@@ -1,2 +1,2 @@
 # task
-*this is a temp task*
+*this is a gitignore test*
